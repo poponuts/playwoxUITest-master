@@ -1,4 +1,4 @@
-# This repo contains tests written with [Playwright](https://playwright.dev/) to test demo UI tests of [sauce labs](https://www.saucedemo.com/) website
+## This repo contains tests written with [Playwright](https://playwright.dev/) to test demo UI tests of [sauce labs](https://www.saucedemo.com/) website
 
 ## To Get Started :
 
