@@ -31,7 +31,6 @@ export class DemoLandingPage {
   async clickButton() {
 
     await this.loginButton.click();
-    await expect(this.page).toHaveURL(/.*inventory/);
-
+    
   }
  }

@@ -1,6 +1,6 @@
 // @ts-check
 import { test } from '@playwright/test';
-import { DemoLandingPage } from '../pages/demo-landing-page.js';
+import { DemoLandingPage } from '../pages/demo-landing-login-page.js';
 import { AddToCart } from '../pages/product-add-cart-page.js';
 
 
