@@ -1,4 +1,4 @@
-# This repo contains tests written in Playwright to test demo annalise.ai website
+# This repo contains tests written with Playwright[https://playwright.dev/] to test demo UI tests of https://www.saucedemo.com/ website
 
 ## To Get Started :
 
